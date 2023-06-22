@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Hello, it is my blog-application where a new user can signup,signin and authorize himself for creating new blogs,edit them and delete them and can also read other 
+blogs but can't able to edit them
+
+Here I have used Reactjs in frontend and firebase as my backend database where I have used different features of firebase for image uploading,data storing
+user authentication and fetching data in realtime and displaying it
