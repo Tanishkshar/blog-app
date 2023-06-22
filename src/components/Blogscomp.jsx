@@ -5,7 +5,6 @@ import { excerpt } from "../utility/main";
 
 const Blogscomp = ({ blogs, user, handledelete }) => {
   const user_id = user?.uid;
-  //   console.log(user?.displayName);
   return (
     <>
       <hr />
